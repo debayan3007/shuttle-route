@@ -1,6 +1,6 @@
 command to evoke the solution function:
 
-npm start <filename>
+`npm start demoInput.json`
 
 `npm start` will take the input file name as param
 
